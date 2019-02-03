@@ -6,6 +6,10 @@
 
 This document only applies to *me*, and in *no way* should be considered to apply to any other team or manager at our company.
 
+## Why I'm here
+
+- Get progress by resolving "resources" (human resources, team resources, company structure, money, etc) 
+
 ## References
 
 - [シリコンバレーのトップテクノロジー企業のマネージャーの README をトリセツじゃんって言って台無しにしたお話 - 宇宙行きたい](http://yoshiori.hatenablog.com/entry/2018/05/25/004407)

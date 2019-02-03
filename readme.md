@@ -1,6 +1,8 @@
 # [WIP] Hi, I'm Matt
 
-:)
+## Disclaimer!!
+
+This document only applies to me, and in no way should be considered to apply to any other team or manager at our company.
 
 ## References
 

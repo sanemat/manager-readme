@@ -15,9 +15,21 @@ This document only applies to **me**, and in **no way** should be considered to 
 
 Chief Technology Officer.
 
+### as a manager
+
 ### as a C\*\*
 
 ### as a \*T\*
+
+## Values
+
+## About me
+
+## One-on-Ones
+
+## Feedback (how to give & how you give) 
+
+## How to interpret my calendar
 
 ## References
 

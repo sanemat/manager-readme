@@ -9,6 +9,7 @@ This document only applies to *me*, and in *no way* should be considered to appl
 ## Why I'm here
 
 - Get progress by resolving "resources" (human resources, team resources, company structure, money, etc) 
+- Accerarate company structure. If you do the technically right things and the technically fun things, you will get progress.
 
 ## References
 

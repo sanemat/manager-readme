@@ -1,8 +1,10 @@
 # [WIP] Hi, I'm Matt
 
+*I* follow this article. *You* don't need to follow this.
+
 ## Disclaimer!!
 
-This document only applies to me, and in no way should be considered to apply to any other team or manager at our company.
+This document only applies to *me*, and in *no way* should be considered to apply to any other team or manager at our company.
 
 ## References
 
